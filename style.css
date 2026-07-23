@@ -80,8 +80,8 @@ a {
   font-weight: 800;
 }
 .brand-logo {
-    height: 200px;
-    width: auto;
+    width: 200px;
+    height: auto;
     display: block;
     object-fit: contain;
 }
